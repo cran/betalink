@@ -1,12 +1,12 @@
-a94a445241f57f3a21cd5f1a055eeb2d *DESCRIPTION
+5d453f4e6b6e921f0d742828940bcb63 *DESCRIPTION
 5161fffb9285724481d7b0e6cfe7a153 *LICENSE
 fbf24041c7475baf866e2a9c4515257a *NAMESPACE
-5251e2bc0ea384ad420d7a32af84864a *NEWS
+10fa48d8eaa281b22f0c6782beb5b22a *NEWS
 eac9843fd634c805e89482f2a437ec3c *R/beta_os_prime.R
 2744dfbac4c83efd31a4828c8aefdbea *R/betalink.r
 dfa9a932d343d8dcd19c11f5a4be13c0 *R/measures.r
 dc43815f2f3c1780b7cb25507ff3f9b4 *R/metaweb.r
-e24f3d5f56ede20f6a5d54f44978158d *R/network_betadiversity.R
+2a54415c586316af8471540c35f066cc *R/network_betadiversity.R
 f855a6ae0a6da4b58a5dcddf1b4a1d67 *R/network_betaplot.R
 7deb57ffaccd019804b3588f7e63e0d4 *R/prepare_networks.R
 6d04c3f28363347e991f3474a92ac183 *README.md
@@ -26,6 +26,6 @@ c6505f5b5d3fd4d30cbeba74a41777db *man/betapart.Rd
 2685553683593d01b53ff54766ee8982 *man/clownfishes.Rd
 8916fac0fcb30a76976febab74b5ee7e *man/df_from_A.Rd
 f6d0de9bd2bdaff9be16567855faefa4 *man/metaweb.Rd
-07a23638ea5868b96579835e08100e83 *man/network_betadiversity.Rd
+70aef65af95e9ae193c810d674725242 *man/network_betadiversity.Rd
 e0954c0d63af759348fe9dc16f2a04ca *man/network_betaplot.Rd
 2bce335ee777010768f5003c30509051 *man/prepare_networks.Rd
