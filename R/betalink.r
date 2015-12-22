@@ -55,9 +55,24 @@ betalink <- function(n1,n2,bf=B01){
 #' betapart(A, B)
 betapart <- function(A,B) list(b=sum(!(A %in% B)), c=sum(!(B %in% A)), a=sum(B %in% A))
 
+
+#' @title Give names to networks
+#' @description
+#' If the networks (in a list) have no names, give them names
+#' @param w A list (of networks, but who am I to judge?)
+#' @export
+name_networks <- function(w){
+   if(is.null(names(w))){
+      warning("It is recommended to give names to your networks. I've done it for you.")
+      names(w) <- paste("network", c(1:length(w)), sep='_')
+   }
+   return(w)
+}
+
 #' @title Anemone/fish interaction data
 #' @docType data
 #' @keywords dataset
 #' @name anemonefish
 #' @format 16 adjacency matrices with species names
+#' @description From http://mangal.io/data/dataset/2/
 NULL
