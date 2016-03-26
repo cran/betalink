@@ -1,11 +1,11 @@
-6833f09ae1aea58cacd4601875f67bf1 *DESCRIPTION
+875f7fd5410fae17974c5b35e1e7a175 *DESCRIPTION
 5161fffb9285724481d7b0e6cfe7a153 *LICENSE
 b23fcab6470621c38af1193f79eda5b4 *NAMESPACE
-10fa48d8eaa281b22f0c6782beb5b22a *NEWS
+ce185af1385281eb753e47a0c167a84c *NEWS
 eac9843fd634c805e89482f2a437ec3c *R/beta_os_prime.R
-ad6b9a36595915574385600724e32118 *R/betalink.r
+cefe2317c76331f1d1e5741892fde809 *R/betalink.r
 c37f863ddfe6fc298d30f82d67022df0 *R/measures.r
-dc43815f2f3c1780b7cb25507ff3f9b4 *R/metaweb.r
+bf868d5cb66ed7ffc794c3f4d91db373 *R/metaweb.r
 90fd950abe4902d7f992515f8a592936 *R/network_betadiversity.R
 f855a6ae0a6da4b58a5dcddf1b4a1d67 *R/network_betaplot.R
 5b2619c9f734a89b2d22441416e720aa *R/prepare_networks.R
